@@ -1,0 +1,3 @@
+botwork.py
+telebot
+requests
