@@ -1,4 +1,2 @@
-botwork.py
+botwork2.py
 telebot
-requests
-types
