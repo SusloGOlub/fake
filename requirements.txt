@@ -1,5 +1,0 @@
-botwork2.py
-telebot
-TeleBot
-python-telegram-bot
-pyTelegramBotAPI
