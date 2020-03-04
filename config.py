@@ -1,4 +1,4 @@
- # Токен от бота
+TOKEN = '1091922415:AAGeWkEQOwUb72XP7weIuUUfiCAnHZHUkBY' # Токен от бота
 BOT_NAME = "Money" # Назване для бота(показывается при нажатие)
 
 
