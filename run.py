@@ -4,7 +4,6 @@ import telebot
 import datetime
 import subprocess
 
-TOKEN = '1091922415:AAGeWkEQOwUb72XP7weIuUUfiCAnHZHUkBY'
 bot = telebot.TeleBot(config.TOKEN)
 
 
